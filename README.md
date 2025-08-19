@@ -8,7 +8,7 @@ A simple Python application to generate QR codes with custom colors using Tkinte
 - Choose QR code color
 
 ## Requirements
-- Python 3.x
+- Python 3.12
 - pyqrcode
 - pypng
 
@@ -31,3 +31,4 @@ python qr_generator.py
 
 
 5. Enter a URL, choose a color, and save your QR code!
+
